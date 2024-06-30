@@ -27,4 +27,12 @@
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ipv4-c002-per001-exetel-isp.1.oca.nflxvideo.net
 
+# MORE
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 ichnaea.dradis.netflix.com
+0.0.0.0 ichnaea.us-west-2.origin.prodaa.netflix.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 customerevents.dradis.netflix.com
+0.0.0.0 customerevents.us-west-2.internal.dradis.netflix.com
+
 # END
