@@ -1,0 +1,30 @@
+# Title: Iz4n32/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 30/06/2024
+# Number of unique domains: 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/Iz4n32/pihole_hosts/main/custom_hosts.txt
+# Project home page: https://github.com/Iz4n32/pihole_hosts
+# Project releases:
+#
+# ===============================================================
+
+
+# End of custom host records.
+# Start Iz4n32
+
+#=====================================
+# Title: Hosts contributed by Fakin Izan
+# http://falseweb.false
+
+0.0.0.0 occ-web-h2.a.nflxso.net
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 assets.nflxext.com
+0.0.0.0 www.chromestatus.com
+0.0.0.0 ocsp.digicert.com
+0.0.0.0 ipv4-c002-per001-exetel-isp.1.oca.nflxvideo.net
+
+# END
