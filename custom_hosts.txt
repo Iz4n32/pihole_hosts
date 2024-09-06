@@ -22,7 +22,7 @@
 
 0.0.0.0 occ-web-h2.a.nflxso.net
 0.0.0.0 cdn.cookielaw.org
-0.0.0.0 assets.nflxext.com
+# 0.0.0.0 assets.nflxext.com
 0.0.0.0 www.chromestatus.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ipv4-c002-per001-exetel-isp.1.oca.nflxvideo.net
